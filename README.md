@@ -46,3 +46,4 @@ python tools/uid-seccomp-module/build.py --module-only
 - `third_party/local_cxa/`：本地析构回调实现，改编自 [5ec1cff/local_cxa_atexit_finalize_impl](https://github.com/5ec1cff/local_cxa_atexit_finalize_impl)。
 
 项目沿用 [Apache-2.0 许可证](LICENSE)；第三方代码保留其原始许可声明，本地析构实现的许可和署名同时收录在安装包的 `legal/` 目录。
+
